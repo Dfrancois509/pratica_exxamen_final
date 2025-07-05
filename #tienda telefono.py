@@ -1,18 +1,12 @@
 #tienda telefono
+ 
 telefonos = { 
-
     'A123': ['Samsung', 6.5, '4GB', '64GB', 'Exynos 9611', '48MP'], 
-
     'B234': ['Apple', 6.1, '6GB', '128GB', 'A15 Bionic', '12MP'], 
-
     'C345': ['Xiaomi', 6.43, '8GB', '256GB', 'Snapdragon 778G', '108MP'], 
-
     'D456': ['Motorola', 6.7, '4GB', '128GB', 'MediaTek Helio G85', '50MP'], 
-
     'E567': ['Samsung', 6.4, '6GB', '128GB', 'Exynos 850', '64MP'], 
-
     'F678': ['Apple', 5.4, '4GB', '64GB', 'A14 Bionic', '12MP'], 
-
     'G789': ['Xiaomi', 6.67, '12GB', '512GB', 'Snapdragon 8 Gen 1', '200MP'], 
 } 
 
@@ -23,15 +17,6 @@ def menu():
     print('3. Actualizar precio de modelo ')
     print('4. Salir') 
 
-telefonos = { 
-    'A123': ['Samsung', 6.5, '4GB', '64GB', 'Exynos 9611', '48MP'], 
-    'B234': ['Apple', 6.1, '6GB', '128GB', 'A15 Bionic', '12MP'], 
-    'C345': ['Xiaomi', 6.43, '8GB', '256GB', 'Snapdragon 778G', '108MP'], 
-    'D456': ['Motorola', 6.7, '4GB', '128GB', 'MediaTek Helio G85', '50MP'], 
-    'E567': ['Samsung', 6.4, '6GB', '128GB', 'Exynos 850', '64MP'], 
-    'F678': ['Apple', 5.4, '4GB', '64GB', 'A14 Bionic', '12MP'], 
-    'G789': ['Xiaomi', 6.67, '12GB', '512GB', 'Snapdragon 8 Gen 1', '200MP'], 
-} 
 stock = { 
 
     'A123': [199990, 5], 
